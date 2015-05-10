@@ -17,7 +17,7 @@ Server and the php on Amazon Web Server (AWS).
 3. Share the results on Facebook (after sucessful login to Facebook)
 
 ### Instructions:
-Configure xampp to run it locally and the php file is to be placed
+Configure xampp Server and similar ones to run it locally
 
 
 ### Screenshots:
