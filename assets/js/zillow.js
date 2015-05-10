@@ -104,7 +104,7 @@ if (response && !response.error_code) {
          if(streetInput!="" && cityInput!="" && stateInput!=""){
 
            $.ajax({ 
-            url: 'zillowphp.php',
+            url: 'http://localhost/zillowphp.php',
             // this is the parameter list
             data: { street: streetInput, 
                     city: cityInput, 
