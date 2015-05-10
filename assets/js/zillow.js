@@ -104,7 +104,7 @@ if (response && !response.error_code) {
          if(streetInput!="" && cityInput!="" && stateInput!=""){
 
            $.ajax({ 
-            url: 'http://zillowhw8-env.elasticbeanstalk.com/zillowphp.php',
+            url: 'zillowphp.php',
             // this is the parameter list
             data: { street: streetInput, 
                     city: cityInput, 

@@ -20,10 +20,22 @@ Server and the php on Amazon Web Server (AWS).
 ### Screenshots:
 Search page
 
-![](https://github.com/punithshetty123/Papers/blob/master/images/Zillow.PNG)
+![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Zillow.PNG)
 
 Mobile View
 
-![](https://github.com/punithshetty123/Papers/blob/master/images/Zillow_mobile.PNG)
+![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Zillow_mobile.PNG)
+
+Result Page Tab1
+
+![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Result1.PNG)
+
+Result Page Tab2
+
+![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Result2.PNG)
+
+Result Page Tab2 - Mobile
+
+![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Result3.PNG)
 
 Ask a question
