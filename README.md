@@ -15,3 +15,15 @@ Server and the php on Amazon Web Server (AWS).
 1. Run the HTML page
 2. Fill up the form fields
 3. Share the results on Facebook (after sucessful login to Facebook)
+
+
+### Screenshots:
+Search page
+
+![](https://github.com/punithshetty123/Papers/blob/master/images/Zillow.PNG)
+
+Mobile View
+
+![](https://github.com/punithshetty123/Papers/blob/master/images/Zillow_mobile.PNG)
+
+Ask a question
