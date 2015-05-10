@@ -16,6 +16,9 @@ Server and the php on Amazon Web Server (AWS).
 2. Fill up the form fields
 3. Share the results on Facebook (after sucessful login to Facebook)
 
+### Instructions:
+Configure xampp to run it locally and the php file is to be placed
+
 
 ### Screenshots:
 Search page
@@ -38,4 +41,5 @@ Result Page Tab2 - Mobile
 
 ![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Result3.PNG)
 
-Ask a question
+
+
